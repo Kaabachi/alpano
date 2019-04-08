@@ -1,6 +1,6 @@
 # alpano
 Programme de dessin de panoramas alpins annotés avec le nom des sommets visibles. 
-Projet du cours CS208 de l'EPFL.
+Projet du cours CS108 de l'EPFL.
 
 
 La copie d'écran ci-dessous montre un exemple de panorama généré au moyen du corrigé. L'observateur se trouve dans le Jura et son regard est dirigé vers le sud. Le panorama a été colorié selon deux critères : la teinte (rouge, vert, etc.) est déterminée par la distance à l'observateur, tandis que la luminosité (clair/foncé) est déterminée par la pente du terrain. L'image ainsi obtenue est à la fois informative et assez similaire à la réalité pour être aisément reconnaissable.
